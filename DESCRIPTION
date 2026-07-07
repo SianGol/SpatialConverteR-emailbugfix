@@ -4,7 +4,7 @@ Title: Conversion Tool Between Data Objects for Spatial -Omics
 Version: 0.1.0
 Date: Insert Date here
 Authors@R: c(
-    person("Sasuni", "Hirimuthugoda", role = c("aut", "cre"))
+    person("Sasuni", "Hirimuthugoda", role = c("aut", "cre"), email = "filleremail.com")
   )
 Description: More about what it does (maybe more than one line).
     Continuation lines should be indented.
